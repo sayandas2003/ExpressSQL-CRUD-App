@@ -18,44 +18,19 @@ This project is a **full-stack CRUD application** built using **Node.js**, **Exp
 - **View Users**: View a list of all users stored in the database.
 - **Responsive UI**: Designed using **HTML**, **CSS**, and **EJS** for a clean, mobile-friendly experience.
   
-## 💻 **Installation & Setup**
 
-### 1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/ExpressSQL-CRUD-App.git
-cd ExpressSQL-CRUD-App
-2. Install dependencies
-bash
-Copy
-Edit
-npm install
-3. Set up MySQL database
-Make sure you have MySQL installed and create a database (e.g., user_management). Use the following SQL query to create a users table:
+## Screenshots
 
-sql
-Copy
-Edit
-CREATE TABLE users (
-  id VARCHAR(255) PRIMARY KEY,
-  username VARCHAR(255) NOT NULL,
-  email VARCHAR(255) NOT NULL,
-  password VARCHAR(255) NOT NULL
-);
-4. Configure the database connection
-In the app.js (or relevant file), modify the connection settings to your MySQL credentials:
+### User Management System - Screenshots
 
-javascript
-Copy
-Edit
-const connection = mysql.createConnection({
-    host: 'localhost',
-    user: 'root',
-    database: 'user_management',   // Name of your database
-    password: 'yourpassword'       // Your MySQL password
-});
-5. Run the application
-bash
-Copy
-Edit
-npm start
-The application will be live at http://localhost:8080.
+#### Screenshot 1: User List
+![Screenshot 1](https://github.com/sayandas2003/ExpressSQL-CRUD-App/raw/main/images/Screenshot%202025-04-26%20at%202.40.24%20PM.jpg)
+
+#### Screenshot 2: Edit User
+![Screenshot 2](https://github.com/sayandas2003/ExpressSQL-CRUD-App/raw/main/images/Screenshot%202025-04-26%20at%202.40.39%20PM.jpg)
+
+#### Screenshot 3: Add User
+![Screenshot 3](https://github.com/sayandas2003/ExpressSQL-CRUD-App/raw/main/images/Screenshot%202025-04-26%20at%202.40.50%20PM.jpg)
+
+#### Screenshot 4: Delete User
+![Screenshot 4](https://github.com/sayandas2003/ExpressSQL-CRUD-App/raw/main/images/Screenshot%202025-04-26%20at%202.40.59%20PM.jpg)
