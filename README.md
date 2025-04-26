@@ -22,10 +22,7 @@ This project is a **full-stack CRUD application** built using **Node.js**, **Exp
 ## Screenshots
 
 ### User Management System - Screenshots
-images/Screenshot%202025-04-26%20at%202.40.24%20PM.jpg
-images/Screenshot%202025-04-26%20at%202.40.39%20PM.jpg
-images/Screenshot%202025-04-26%20at%202.40.50%20PM.jpg
-images/Screenshot%202025-04-26%20at%202.40.59%20PM.jpg
+![image alt](https://github.com/sayandas2003/ExpressSQL-CRUD-App/blob/main/images/Screenshot%202025-04-26%20at%202.40.39%E2%80%AFPM.jpg?raw=true)
 
 
 
