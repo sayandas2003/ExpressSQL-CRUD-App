@@ -21,6 +21,7 @@ This project is a **full-stack CRUD application** built using **Node.js**, **Exp
 ## 💻 **Installation & Setup**
 
 ### 1. **Clone the repository**
+```bash
 git clone https://github.com/yourusername/ExpressSQL-CRUD-App.git
 cd ExpressSQL-CRUD-App
 2. Install dependencies
